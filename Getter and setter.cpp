@@ -2,7 +2,7 @@
 using namespace std;
 
 class Student {
-	//default access modifier in C++ is private
+    //default access modifier in C++ is private
     string name;
     int age;
     int cls;
@@ -13,7 +13,7 @@ class Student {
     }
     
     string getName(){
-     return name;
+    return name;
      }
 };
 
